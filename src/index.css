@@ -12,3 +12,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+h7{
+  text-align: center;
+  font-size: smaller;
+  font-weight: 600;
+  font-size: x-small;
+}
